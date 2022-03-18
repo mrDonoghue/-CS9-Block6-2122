@@ -1,9 +1,10 @@
 # Links link
 ## Class
-* [game](https://replit.com/team/CS9-Block6-2122/Game)
+* [First NN](https://replit.com/team/CS9-Block6-2122/First-NN)
 
 
 ## Old
+* [game](https://replit.com/team/CS9-Block6-2122/Game)
 * [pygame with classes](https://replit.com/team/CS9-Block6-2122/pygame-with-classes)
 * [pygame](https://replit.com/team/CS9-Block6-2122/pygamee)
 ## Extras
