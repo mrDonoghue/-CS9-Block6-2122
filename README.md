@@ -1,7 +1,6 @@
 # Links link
 ## Class
 * [First NN](https://replit.com/team/CS9-Block6-2122/First-NN)
-* [NN Playground](https://playground.tensorflow.org/)
 
 
 ## Old
