@@ -2,7 +2,7 @@
 ## Class
 * [First NN](https://replit.com/team/CS9-Block6-2122/First-NN)
 * [Cipher](https://replit.com/team/CS9-Block6-2122/Cipher)
-* Discord bot: [repl](https://replit.com/@CS9-Block6-2122/Discord-bot) and [tutorial](https://www.youtube.com/watch?v=SPTfmiYiuok)
+* Discord bot: [repl](https://replit.com/team/CS9-Block6-2122/Discord-bot) and [tutorial](https://www.youtube.com/watch?v=SPTfmiYiuok)
 
 
 ## Old
