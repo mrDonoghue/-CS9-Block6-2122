@@ -4,6 +4,7 @@
 * [Cipher](https://replit.com/team/CS9-Block6-2122/Cipher)
 * Discord bot: [repl](https://replit.com/team/CS9-Block6-2122/Discord-bot) and [tutorial](https://www.youtube.com/watch?v=SPTfmiYiuok)
 * 2D Platformer: [repl](https://replit.com/team/CS9-Block6-2122/2DPlatformer) and [tutorial](https://docs.replit.com/tutorials/14-2d-platform-game)
+* HurricanTracker: [repl](https://replit.com/team/CS9-Block6-2122/HurricaneTracker) and [requirements](http://nifty.stanford.edu/2018/ventura-hurricane-tracker/irma-assignment.html)
 
 
 ## Old
